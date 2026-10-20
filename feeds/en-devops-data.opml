@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>☁️ 英文 DevOps / 数据 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Google Cloud Blog" title="Google Cloud Blog" xmlUrl="https://cloudblog.withgoogle.com/rss" />
+    <outline type="rss" text="MongoDB Blog" title="MongoDB Blog" xmlUrl="https://www.mongodb.com/blog/rss" />
+    <outline type="rss" text="AWS Architecture Blog" title="AWS Architecture Blog" xmlUrl="http://www.awsarchitectureblog.com/atom.xml" />
+    <outline type="rss" text="Docker" title="Docker" xmlUrl="https://www.docker.com/feed" />
+    <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="https://azure.microsoft.com/en-us/blog/feed" />
+    <outline type="rss" text="Potaroo blog" title="Potaroo blog" xmlUrl="http://www.potaroo.net/rss.xml" />
+    <outline type="rss" text="AWS Blog" title="AWS Blog" xmlUrl="https://aws.amazon.com/blogs/aws/feed" />
+    <outline type="rss" text="Let&apos;s Encrypt" title="Let&apos;s Encrypt" xmlUrl="https://letsencrypt.org/feed.xml" />
+    <outline type="rss" text="Plausible Analytics" title="Plausible Analytics" xmlUrl="https://plausible.io/blog/feed.xml" />
+    <outline type="rss" text="Weaviate • vector database(@weaviate_io)" title="Weaviate • vector database(@weaviate_io)" xmlUrl="https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c" />
+    <outline type="rss" text="Elastic Blog" title="Elastic Blog" xmlUrl="https://www.elastic.co/blog/feed" />
+    <outline type="rss" text="Fastly Blog" title="Fastly Blog" xmlUrl="https://www.fastly.com/blog_rss.xml" />
+    <outline type="rss" text="zwischenzugs" title="zwischenzugs" xmlUrl="https://zwischenzugs.com/feed" />
+    <outline type="rss" text="Heroku Blog" title="Heroku Blog" xmlUrl="https://blog.heroku.com/feed" />
+    <outline type="rss" text="Data@Mozilla" title="Data@Mozilla" xmlUrl="https://blog.mozilla.org/data/feed" />
+    <outline type="rss" text="The Cloudflare Blog" title="The Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss" />
+    <outline type="rss" text="jeffgeerling.com" title="jeffgeerling.com" xmlUrl="https://www.jeffgeerling.com/blog.xml" />
+    <outline type="rss" text="Databricks" title="Databricks" xmlUrl="https://www.databricks.com/feed" />
+    <outline type="rss" text="Ricard Bejarano – Site Reliability Engineer" title="Ricard Bejarano – Site Reliability Engineer" xmlUrl="https://www.bejarano.io/feed.xml" />
+    <outline type="rss" text="Feeding the Cloud" title="Feeding the Cloud" xmlUrl="https://feeding.cloud.geek.nz/index.rss" />
+  </body>
+</opml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🏗️ 英文工程团队博客 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" />
+    <outline type="rss" text="Google Open Source Blog" title="Google Open Source Blog" xmlUrl="http://feeds.feedburner.com/GoogleOpenSourceBlog" />
+    <outline type="rss" text="Google Search Central Blog" title="Google Search Central Blog" xmlUrl="http://feeds.feedburner.com/blogspot/amDG" />
+    <outline type="rss" text="Overflow - Buffer Resources" title="Overflow - Buffer Resources" xmlUrl="https://buffer.com/resources/overflow/rss" />
+    <outline type="rss" text="Performance @ Shopify - Blog" title="Performance @ Shopify - Blog" xmlUrl="https://performance.shopify.com/blogs/blog.atom" />
+    <outline type="rss" text="Planet Igalia" title="Planet Igalia" xmlUrl="http://planet.igalia.com/atom.xml" />
+    <outline type="rss" text="Facebook Engineering" title="Facebook Engineering" xmlUrl="https://engineering.fb.com/feed" />
+    <outline type="rss" text="Stripe Blog" title="Stripe Blog" xmlUrl="https://stripe.com/blog/feed.rss" />
+    <outline type="rss" text="Engineering – The GitHub Blog" title="Engineering – The GitHub Blog" xmlUrl="http://githubengineering.com/atom.xml" />
+    <outline type="rss" text="Facebook Engineering" title="Facebook Engineering" xmlUrl="https://code.facebook.com/posts/rss" />
+    <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="https://github.blog/engineering.atom" />
+    <outline type="rss" text="[[WM:TECHBLOG]]" title="[[WM:TECHBLOG]]" xmlUrl="http://techblog.wikimedia.org/feed" />
+    <outline type="rss" text="KA Engineering" title="KA Engineering" xmlUrl="http://engineering.khanacademy.org/rss.xml" />
+    <outline type="rss" text="Sundar Pichai(@sundarpichai)" title="Sundar Pichai(@sundarpichai)" xmlUrl="https://api.xgo.ing/rss/user/8324d65a63dc42c584a8c08cc8323c9f" />
+    <outline type="rss" text="The Keyword (blog.google)" title="The Keyword (blog.google)" xmlUrl="https://blog.google/rss" />
+    <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="https://developers.googleblog.com/feeds/posts/default" />
+    <outline type="rss" text="Irrational Exuberance" title="Irrational Exuberance" xmlUrl="https://lethain.com/feeds" />
+    <outline type="rss" text="about:community" title="about:community" xmlUrl="https://blog.mozilla.org/community/feed" />
+    <outline type="rss" text="Medium Engineering - Medium" title="Medium Engineering - Medium" xmlUrl="https://medium.com/feed/medium-eng" />
+    <outline type="rss" text="Pinterest Engineering Blog - Medium" title="Pinterest Engineering Blog - Medium" xmlUrl="https://medium.com/feed/pinterest-engineering" />
+    <outline type="rss" text="Slack Engineering" title="Slack Engineering" xmlUrl="https://slack.engineering/feed" />
+    <outline type="rss" text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" />
+    <outline type="rss" text="The Airtable Engineering Blog" title="The Airtable Engineering Blog" xmlUrl="https://medium.com/feed/airtable-eng" />
+    <outline type="rss" text="The PayPal Technology Blog - Medium" title="The PayPal Technology Blog - Medium" xmlUrl="https://medium.com/feed/paypal-engineering" />
+    <outline type="rss" text="The PayPal Technology Blog" title="The PayPal Technology Blog" xmlUrl="https://medium.com/feed/paypal-tech" />
+    <outline type="rss" text="trivago tech blog" title="trivago tech blog" xmlUrl="https://tech.trivago.com/rss.xml" />
+    <outline type="rss" text="Code as Craft" title="Code as Craft" xmlUrl="https://codeascraft.com/feed/atom" />
+    <outline type="rss" text="JetBrains News | JetBrains Blog" title="JetBrains News | JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed" />
+    <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="https://engineering.atspotify.com/feed" />
+    <outline type="rss" text="Dropbox Tech" title="Dropbox Tech" xmlUrl="https://dropbox.tech/feed" />
+    <outline type="rss" text="eBay Tech Blog" title="eBay Tech Blog" xmlUrl="http://www.ebaytechblog.com/feed" />
+    <outline type="rss" text="Grab Tech" title="Grab Tech" xmlUrl="http://engineering.grab.com/feed.xml" />
+    <outline type="rss" text="Engineering Blog – Wealthfront" title="Engineering Blog – Wealthfront" xmlUrl="http://eng.wealthfront.com/feed" />
+    <outline type="rss" text="Martian Chronicles, Evil Martians’ team blog" title="Martian Chronicles, Evil Martians’ team blog" xmlUrl="https://evilmartians.com/chronicles.atom" />
+    <outline type="rss" text="Mozilla Services" title="Mozilla Services" xmlUrl="https://blog.mozilla.org/services/feed" />
+    <outline type="rss" text="Q42 Engineering" title="Q42 Engineering" xmlUrl="https://engineering.q42.nl/rss" />
+    <outline type="rss" text="The Telegraph Engineering" title="The Telegraph Engineering" xmlUrl="https://medium.com/feed/the-telegraph-engineering" />
+    <outline type="rss" text="The Wikipedia Web team blog" title="The Wikipedia Web team blog" xmlUrl="https://phabricator.wikimedia.org/phame/blog/feed/9" />
+    <outline type="rss" text="Widen Engineering" title="Widen Engineering" xmlUrl="http://engineering.widen.com/feed.xml" />
+    <outline type="rss" text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" />
+    <outline type="rss" text="BBC Product &amp; Technology" title="BBC Product &amp; Technology" xmlUrl="https://medium.com/feed/bbc-design-engineering" />
+    <outline type="rss" text="AMEX Technology" title="AMEX Technology" xmlUrl="https://americanexpress.io/feed.xml" />
+    <outline type="rss" text="Code as Craft (Etsy Engineering)" title="Code as Craft (Etsy Engineering)" xmlUrl="https://www.etsy.com/codeascraft/rss" />
+    <outline type="rss" text="Technology in government" title="Technology in government" xmlUrl="https://gdstechnology.blog.gov.uk/feed" />
+    <outline type="rss" text="Mozilla Foundation Blog" title="Mozilla Foundation Blog" xmlUrl="https://foundation.mozilla.org/en/blog/atom" />
+    <outline type="rss" text="Scott Logic" title="Scott Logic" xmlUrl="https://blog.scottlogic.com/atom.xml" />
+    <outline type="rss" text="Government Digital Service" title="Government Digital Service" xmlUrl="https://gds.blog.gov.uk/feed" />
+    <outline type="rss" text="Technology + Creativity at the BBC Feed" title="Technology + Creativity at the BBC Feed" xmlUrl="http://www.bbc.co.uk/blogs/internet/rss" />
+    <outline type="rss" text="DuckDuckGo Blog" title="DuckDuckGo Blog" xmlUrl="https://spreadprivacy.com/rss" />
+  </body>
+</opml>

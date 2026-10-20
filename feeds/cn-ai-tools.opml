@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🧩 中文 AI 工具 / Agent - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AI产品黄叔(@PMbackttfuture)" title="AI产品黄叔(@PMbackttfuture)" xmlUrl="https://api.xgo.ing/rss/user/5b632b7fba274f62928cdcc9d3db4c5e" />
+    <outline type="rss" text="歸藏(guizang.ai)(@op7418)" title="歸藏(guizang.ai)(@op7418)" xmlUrl="https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9" />
+    <outline type="rss" text="謝懿Shine©的AI博客" title="謝懿Shine©的AI博客" xmlUrl="https://xieyi.org/rss.xml" />
+    <outline type="rss" text="遥行 Gofurther 技术&amp;ML&amp;BC博客" title="遥行 Gofurther 技术&amp;ML&amp;BC博客" xmlUrl="https://charlesliuyx.github.io/atom.xml" />
+    <outline type="rss" text="量子位 QbitAI" title="量子位 QbitAI" xmlUrl="https://www.qbitai.com/feed" />
+    <outline type="rss" text="极客公园" title="极客公园" xmlUrl="https://www.geekpark.net/rss" />
+    <outline type="rss" text="钛媒体" title="钛媒体" xmlUrl="http://www.tmtpost.com/feed" />
+    <outline type="rss" text="宝玉(@dotey)" title="宝玉(@dotey)" xmlUrl="https://api.xgo.ing/rss/user/97f1484ae48c430fbbf3438099743674" />
+    <outline type="rss" text="宝玉的分享" title="宝玉的分享" xmlUrl="https://baoyu.io/feed.xml" />
+    <outline type="rss" text="小互(@imxiaohu)" title="小互(@imxiaohu)" xmlUrl="https://api.xgo.ing/rss/user/74e542992cf7441390c708f5601071d4" />
+    <outline type="rss" text="宝玉的分享" title="宝玉的分享" xmlUrl="https://s.baoyu.io/feed.xml" />
+    <outline type="rss" text="Levix 空间站 - Telegram Channel" title="Levix 空间站 - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/synctoai" />
+    <outline type="rss" text="Roller | AI AGENT 中文社区 - Telegram Channel" title="Roller | AI AGENT 中文社区 - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/rollerrolling" />
+  </body>
+</opml>

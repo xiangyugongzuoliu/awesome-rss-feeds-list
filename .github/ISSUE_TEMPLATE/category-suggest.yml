@@ -1,0 +1,26 @@
+name: 建议新分类
+description: 建议新增一个一级分类（高门槛）
+title: "[分类] "
+labels: ["category-suggest"]
+body:
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: 提议的新分类
+      description: 名称 + 边界（什么进 / 什么不进）
+    validations:
+      required: true
+  - type: textarea
+    id: source_pool
+    attributes:
+      label: 至少 20 个候选源
+      description: 新增一级分类的门槛是有足够多的源能填充，请列出至少 20 个候选 RSS URL
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: 与现有 7 类的边界
+      description: 为什么不能放进现有 7 类，而需要单独成类？
+    validations:
+      required: true

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🧩 英文 AI 工具 / Agent / LLM - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ChatGPT(@ChatGPTapp)" title="ChatGPT(@ChatGPTapp)" xmlUrl="https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4" />
+    <outline type="rss" text="Claude(@claudeai)" title="Claude(@claudeai)" xmlUrl="https://api.xgo.ing/rss/user/01f60d63a61b44d692cc35c7feb0b4a4" />
+    <outline type="rss" text="Hugging Face(@huggingface)" title="Hugging Face(@huggingface)" xmlUrl="https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f" />
+    <outline type="rss" text="OpenAI Developers(@OpenAIDevs)" title="OpenAI Developers(@OpenAIDevs)" xmlUrl="https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55" />
+    <outline type="rss" text="Julien Chaumond(@julien_c)" title="Julien Chaumond(@julien_c)" xmlUrl="https://api.xgo.ing/rss/user/44d9fa384087448a94d3c8595f8d535e" />
+    <outline type="rss" text="Kevin Weil 🇺🇸(@kevinweil)" title="Kevin Weil 🇺🇸(@kevinweil)" xmlUrl="https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c" />
+    <outline type="rss" text="Sam Altman(@sama)" title="Sam Altman(@sama)" xmlUrl="https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927" />
+    <outline type="rss" text="Simon Willison(@simonw)" title="Simon Willison(@simonw)" xmlUrl="https://api.xgo.ing/rss/user/30ad80be93c84e44acc37d5ddf31db57" />
+    <outline type="rss" text="Ben&apos;s Bites" title="Ben&apos;s Bites" xmlUrl="https://www.bensbites.com/feed" />
+    <outline type="rss" text="Harrison Chase(@hwchase17)" title="Harrison Chase(@hwchase17)" xmlUrl="https://api.xgo.ing/rss/user/f299207df53745bca04a03db8d11c5aa" />
+    <outline type="rss" text="Midjourney(@midjourney)" title="Midjourney(@midjourney)" xmlUrl="https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d" />
+    <outline type="rss" text="ollama(@ollama)" title="ollama(@ollama)" xmlUrl="https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2" />
+    <outline type="rss" text="Cursor(@cursor_ai)" title="Cursor(@cursor_ai)" xmlUrl="https://api.xgo.ing/rss/user/5287b4e0e13a4ab7ab7b1d56f9d88960" />
+    <outline type="rss" text="Dify(@dify_ai)" title="Dify(@dify_ai)" xmlUrl="https://api.xgo.ing/rss/user/0be252fedbe84ad7bea21be44b18da89" />
+    <outline type="rss" text="FlowiseAI(@FlowiseAI)" title="FlowiseAI(@FlowiseAI)" xmlUrl="https://api.xgo.ing/rss/user/be74da51698d4cefb12b39830d6cd201" />
+    <outline type="rss" text="Jina AI(@JinaAI_)" title="Jina AI(@JinaAI_)" xmlUrl="https://api.xgo.ing/rss/user/f510f6e7eecf456ca7e2895a46752888" />
+    <outline type="rss" text="Kling AI(@Kling_ai)" title="Kling AI(@Kling_ai)" xmlUrl="https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888" />
+    <outline type="rss" text="LangChain(@LangChainAI)" title="LangChain(@LangChainAI)" xmlUrl="https://api.xgo.ing/rss/user/862fee50a745423c87e2633b274caf1d" />
+    <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" />
+    <outline type="rss" text="LlamaIndex 🦙(@llama_index)" title="LlamaIndex 🦙(@llama_index)" xmlUrl="https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2" />
+    <outline type="rss" text="Perplexity(@perplexity_ai)" title="Perplexity(@perplexity_ai)" xmlUrl="https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c" />
+    <outline type="rss" text="The Rundown AI(@TheRundownAI)" title="The Rundown AI(@TheRundownAI)" xmlUrl="https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7" />
+    <outline type="rss" text="Windsurf(@windsurf_ai)" title="Windsurf(@windsurf_ai)" xmlUrl="https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf" />
+    <outline type="rss" text="Aravind Srinivas(@AravSrinivas)" title="Aravind Srinivas(@AravSrinivas)" xmlUrl="https://api.xgo.ing/rss/user/59e6b63ae9684d11be0ae13d9e7420f2" />
+    <outline type="rss" text="Augment Code(@augmentcode)" title="Augment Code(@augmentcode)" xmlUrl="https://api.xgo.ing/rss/user/e153fdd077df458b8298d975c060dcc3" />
+    <outline type="rss" text="ElevenLabs Blog" title="ElevenLabs Blog" xmlUrl="https://api.bestblogs.dev/feed/elevenLabsBlog" />
+    <outline type="rss" text="ManusAI(@ManusAI_HQ)" title="ManusAI(@ManusAI_HQ)" xmlUrl="https://api.xgo.ing/rss/user/320181c4651a41a08015946b55f704ab" />
+    <outline type="rss" text="OpenRouter(@OpenRouterAI)" title="OpenRouter(@OpenRouterAI)" xmlUrl="https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4" />
+    <outline type="rss" text="AI Engineer(@aiDotEngineer)" title="AI Engineer(@aiDotEngineer)" xmlUrl="https://api.xgo.ing/rss/user/7d19a619a1cc4a9896129211269d2c85" />
+    <outline type="rss" text="AI SDK(@aisdk)" title="AI SDK(@aisdk)" xmlUrl="https://api.xgo.ing/rss/user/22af005b21ec45b1a4503acca777b7f0" />
+    <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed" />
+    <outline type="rss" text="Character.AI(@character_ai)" title="Character.AI(@character_ai)" xmlUrl="https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d" />
+    <outline type="rss" text="DeepLearning.AI(@DeepLearningAI)" title="DeepLearning.AI(@DeepLearningAI)" xmlUrl="https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177" />
+    <outline type="rss" text="Fireworks AI(@FireworksAI_HQ)" title="Fireworks AI(@FireworksAI_HQ)" xmlUrl="https://api.xgo.ing/rss/user/9f35c76341554bd78c2b9e63dc4fa5d8" />
+    <outline type="rss" text="Google AI Developers(@googleaidevs)" title="Google AI Developers(@googleaidevs)" xmlUrl="https://api.xgo.ing/rss/user/69d925d4a8d44221b03eecbe07bd0f74" />
+    <outline type="rss" text="Hailuo AI (MiniMax)(@Hailuo_AI)" title="Hailuo AI (MiniMax)(@Hailuo_AI)" xmlUrl="https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8" />
+    <outline type="rss" text="Ideogram(@ideogram_ai)" title="Ideogram(@ideogram_ai)" xmlUrl="https://api.xgo.ing/rss/user/a719880fe66e4156a111187f50dae91b" />
+    <outline type="rss" text="minimaxir (Max Woolf)" title="minimaxir (Max Woolf)" xmlUrl="https://minimaxir.com/index.xml" />
+    <outline type="rss" text="PromptLayer" title="PromptLayer" xmlUrl="https://blog.promptlayer.com/rss" />
+    <outline type="rss" text="VentureBeat AI" title="VentureBeat AI" xmlUrl="https://venturebeat.com/category/ai/feed" />
+    <outline type="rss" text="clem 🤗(@ClementDelangue)" title="clem 🤗(@ClementDelangue)" xmlUrl="https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b" />
+    <outline type="rss" text="Cognition(@cognition_labs)" title="Cognition(@cognition_labs)" xmlUrl="https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7" />
+    <outline type="rss" text="cohere(@cohere)" title="cohere(@cohere)" xmlUrl="https://api.xgo.ing/rss/user/462aa134ed914f98b3491680ad9b36ed" />
+    <outline type="rss" text="Google Gemini App(@GeminiApp)" title="Google Gemini App(@GeminiApp)" xmlUrl="https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d" />
+    <outline type="rss" text="Groq Inc(@GroqInc)" title="Groq Inc(@GroqInc)" xmlUrl="https://api.xgo.ing/rss/user/771b32075fe54a83bdb6966de9647b4f" />
+    <outline type="rss" text="HeyGen(@HeyGen_Official)" title="HeyGen(@HeyGen_Official)" xmlUrl="https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db" />
+    <outline type="rss" text="Logan Kilpatrick(@OfficialLoganK)" title="Logan Kilpatrick(@OfficialLoganK)" xmlUrl="https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe" />
+    <outline type="rss" text="Lovable(@lovable_dev)" title="Lovable(@lovable_dev)" xmlUrl="https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767" />
+    <outline type="rss" text="Milvus(@milvusio)" title="Milvus(@milvusio)" xmlUrl="https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade" />
+    <outline type="rss" text="NotebookLM(@NotebookLM)" title="NotebookLM(@NotebookLM)" xmlUrl="https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0" />
+    <outline type="rss" text="Philipp Schmid(@_philschmid)" title="Philipp Schmid(@_philschmid)" xmlUrl="https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2" />
+    <outline type="rss" text="Pika(@pika_labs)" title="Pika(@pika_labs)" xmlUrl="https://api.xgo.ing/rss/user/3306d8b253ec4e03aca3c2e9967e7119" />
+    <outline type="rss" text="Poe(@poe_platform)" title="Poe(@poe_platform)" xmlUrl="https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28" />
+    <outline type="rss" text="Qdrant" title="Qdrant" xmlUrl="https://qdrant.tech/index.xml" />
+    <outline type="rss" text="Qdrant(@qdrant_engine)" title="Qdrant(@qdrant_engine)" xmlUrl="https://api.xgo.ing/rss/user/a55f6e33dd224235aabaabaaf9d58a06" />
+    <outline type="rss" text="Recraft(@recraftai)" title="Recraft(@recraftai)" xmlUrl="https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b" />
+    <outline type="rss" text="Replicate(@replicate)" title="Replicate(@replicate)" xmlUrl="https://api.xgo.ing/rss/user/12eba9c3db4940c5ab2a72bd00f9ff2c" />
+    <outline type="rss" text="Rowan Cheung(@rowancheung)" title="Rowan Cheung(@rowancheung)" xmlUrl="https://api.xgo.ing/rss/user/a636de3cbda0495daabd15b9fd298614" />
+    <outline type="rss" text="Runway(@runwayml)" title="Runway(@runwayml)" xmlUrl="https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820" />
+    <outline type="rss" text="Scott Wu(@ScottWu46)" title="Scott Wu(@ScottWu46)" xmlUrl="https://api.xgo.ing/rss/user/5fca8ccd87344d388bc863304ed6fd86" />
+    <outline type="rss" text="Simon Willison&apos;s Weblog" title="Simon Willison&apos;s Weblog" xmlUrl="https://simonwillison.net/atom/everything" />
+    <outline type="rss" text="PyTorch" title="PyTorch" xmlUrl="https://pytorch.org/feed" />
+    <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss" />
+    <outline type="rss" text="mem0(@mem0ai)" title="mem0(@mem0ai)" xmlUrl="https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116" />
+    <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="https://singularityhub.com/feed" />
+    <outline type="rss" text="LovartAI(@lovart_ai)" title="LovartAI(@lovart_ai)" xmlUrl="https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2" />
+    <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" />
+    <outline type="rss" text="Barsee 🐶(@heyBarsee)" title="Barsee 🐶(@heyBarsee)" xmlUrl="https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4" />
+    <outline type="rss" text="Genspark(@genspark_ai)" title="Genspark(@genspark_ai)" xmlUrl="https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011" />
+    <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" />
+    <outline type="rss" text="Blog AI Weirdness" title="Blog AI Weirdness" xmlUrl="https://aiweirdness.com/rss" />
+    <outline type="rss" text="Medium - Artificial Intelligence Magazine" title="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" />
+    <outline type="rss" text="ML in production" title="ML in production" xmlUrl="https://mlinproduction.com/feed" />
+    <outline type="rss" text="Fellou(@FellouAI)" title="Fellou(@FellouAI)" xmlUrl="https://api.xgo.ing/rss/user/326763c2f6154826babcfd71c5ab0f70" />
+    <outline type="rss" text="Firecrawl(@firecrawl_dev)" title="Firecrawl(@firecrawl_dev)" xmlUrl="https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614" />
+    <outline type="rss" text="AI Breakfast(@AiBreakfast)" title="AI Breakfast(@AiBreakfast)" xmlUrl="https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b" />
+    <outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" />
+    <outline type="rss" text="Science Daily AI News" title="Science Daily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" />
+    <outline type="rss" text="Patrick Loeber(@patloeber)" title="Patrick Loeber(@patloeber)" xmlUrl="https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f" />
+    <outline type="rss" text="Paul Couvert(@itsPaulAi)" title="Paul Couvert(@itsPaulAi)" xmlUrl="https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f" />
+    <outline type="rss" text="Hacker News AI" title="Hacker News AI" xmlUrl="https://hnrss.org/newest?q=AI" />
+  </body>
+</opml>

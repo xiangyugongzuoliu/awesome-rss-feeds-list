@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>📬 中文 Newsletter - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="DevNow — 开发技术周刊" title="DevNow — 开发技术周刊" xmlUrl="https://www.laughingzhu.cn/rss.xml" />
+    <outline type="rss" text="HelloGitHub 月刊" title="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" />
+    <outline type="rss" text="曼報 Manny&apos;s Newsletter" title="曼報 Manny&apos;s Newsletter" xmlUrl="https://feed.firstory.me/rss/user/ckb7oop2y0yit0873vc36njil" />
+    <outline type="rss" text="潮流周刊" title="潮流周刊" xmlUrl="https://weekly.tw93.fun/rss.xml" />
+    <outline type="rss" text="阑夕" title="阑夕" xmlUrl="https://plink.anyfeeder.com/weixin/techread" />
+    <outline type="rss" text="奇客Solidot–传递最新科技情报" title="奇客Solidot–传递最新科技情报" xmlUrl="https://www.solidot.org/index.rss" />
+    <outline type="rss" text="HackerNews每日摘要 on SuperTechFans" title="HackerNews每日摘要 on SuperTechFans" xmlUrl="https://www.supertechfans.com/cn/index.xml" />
+  </body>
+</opml>

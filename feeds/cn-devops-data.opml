@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>☁️ 中文 DevOps / 数据 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="云原生" title="云原生" xmlUrl="https://jimmysong.io/index.xml" />
+    <outline type="rss" text="运维咖啡吧" title="运维咖啡吧" xmlUrl="https://blog.ops-coffee.cn/feed.xml" />
+    <outline type="rss" text="openSUSE 中文社区" title="openSUSE 中文社区" xmlUrl="https://suse.org.cn/feed.xml" />
+    <outline type="rss" text="Docker-v2ex" title="Docker-v2ex" xmlUrl="https://www.v2ex.com/feed/docker.xml" />
+    <outline type="rss" text="Jimmy Song - Cloud Native | Open Source | Community – 博客" title="Jimmy Song - Cloud Native | Open Source | Community – 博客" xmlUrl="https://jimmysong.io/blog/index.xml" />
+    <outline type="rss" text="木子" title="木子" xmlUrl="https://blog.k8s.li/atom.xml" />
+    <outline type="rss" text="网络热度" title="网络热度" xmlUrl="https://www.packetmania.net/atom.xml" />
+    <outline type="rss" text="Meditation | RSS Feed" title="Meditation | RSS Feed" xmlUrl="https://raptazure.github.io/atom.xml" />
+    <outline type="rss" text="SRE运维博客" title="SRE运维博客" xmlUrl="https://www.cnsre.cn/index.xml" />
+    <outline type="rss" text="运维开发绿皮书" title="运维开发绿皮书" xmlUrl="https://www.geekery.cn/rss.xml" />
+  </body>
+</opml>

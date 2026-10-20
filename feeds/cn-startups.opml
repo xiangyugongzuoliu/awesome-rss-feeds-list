@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🚀 中文创业 / Indie Hacker - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="构建我的被动收入" title="构建我的被动收入" xmlUrl="https://www.bmpi.dev/index.xml" />
+    <outline type="rss" text="36氪" title="36氪" xmlUrl="https://36kr.com/feed" />
+    <outline type="rss" text="让小产品的独立变现更简单 - ezindie.com" title="让小产品的独立变现更简单 - ezindie.com" xmlUrl="https://www.ezindie.com/feed/rss.xml" />
+    <outline type="rss" text="极客公园" title="极客公园" xmlUrl="https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml" />
+    <outline type="rss" text="w2solo - 独立开发者社区" title="w2solo - 独立开发者社区" xmlUrl="https://w2solo.com/topics/feed" />
+    <outline type="rss" text="爱范儿" title="爱范儿" xmlUrl="http://www.ifanr.com/feed" />
+    <outline type="rss" text="张智勇 – 创业、投资" title="张智勇 – 创业、投资" xmlUrl="https://www.zyzhang.com/feed" />
+    <outline type="rss" text="透明创业实验" title="透明创业实验" xmlUrl="https://blog.t9t.io/atom.xml" />
+    <outline type="rss" text="PH今日热榜 – Decohack" title="PH今日热榜 – Decohack" xmlUrl="https://decohack.com/category/producthunt/feed" />
+  </body>
+</opml>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🧠 英文 AI 研究 / 实验室 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss.xml" />
+    <outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="https://magazine.sebastianraschka.com/feed" />
+    <outline type="rss" text="Andrew Ng(@AndrewYNg)" title="Andrew Ng(@AndrewYNg)" xmlUrl="https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d" />
+    <outline type="rss" text="Fei-Fei Li(@drfeifei)" title="Fei-Fei Li(@drfeifei)" xmlUrl="https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5" />
+    <outline type="rss" text="Geoffrey Hinton(@geoffreyhinton)" title="Geoffrey Hinton(@geoffreyhinton)" xmlUrl="https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686" />
+    <outline type="rss" text="Greg Brockman(@gdb)" title="Greg Brockman(@gdb)" xmlUrl="https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268" />
+    <outline type="rss" text="Ian Goodfellow(@goodfellow_ian)" title="Ian Goodfellow(@goodfellow_ian)" xmlUrl="https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84" />
+    <outline type="rss" text="Microsoft Research(@MSFTResearch)" title="Microsoft Research(@MSFTResearch)" xmlUrl="https://api.xgo.ing/rss/user/61f4b78554fb4b8fa5653ec5d924d15a" />
+    <outline type="rss" text="Yann LeCun(@ylecun)" title="Yann LeCun(@ylecun)" xmlUrl="https://api.xgo.ing/rss/user/f5f4f928dede472ea55053672ad27ab6" />
+    <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml" />
+    <outline type="rss" text="Nvidia Developer Blog" title="Nvidia Developer Blog" xmlUrl="https://developer.nvidia.com/blog/feed" />
+    <outline type="rss" text="arXiv AI" title="arXiv AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI" />
+    <outline type="rss" text="Andrej Karpathy(@karpathy)" title="Andrej Karpathy(@karpathy)" xmlUrl="https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524" />
+    <outline type="rss" text="Anthropic(@AnthropicAI)" title="Anthropic(@AnthropicAI)" xmlUrl="https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5" />
+    <outline type="rss" text="Berkeley AI Research(@berkeley_ai)" title="Berkeley AI Research(@berkeley_ai)" xmlUrl="https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009" />
+    <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.com/blog/feed/basic" />
+    <outline type="rss" text="Google DeepMind(@GoogleDeepMind)" title="Google DeepMind(@GoogleDeepMind)" xmlUrl="https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec" />
+    <outline type="rss" text="Lilian Weng(@lilianweng)" title="Lilian Weng(@lilianweng)" xmlUrl="https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498" />
+    <outline type="rss" text="Mistral AI(@MistralAI)" title="Mistral AI(@MistralAI)" xmlUrl="https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1" />
+    <outline type="rss" text="NVIDIA AI(@NVIDIAAI)" title="NVIDIA AI(@NVIDIAAI)" xmlUrl="https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390" />
+    <outline type="rss" text="OpenAI(@OpenAI)" title="OpenAI(@OpenAI)" xmlUrl="https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049" />
+    <outline type="rss" text="Stanford AI Lab(@StanfordAILab)" title="Stanford AI Lab(@StanfordAILab)" xmlUrl="https://api.xgo.ing/rss/user/d5fc365556e641cba2278f501e8c6f92" />
+    <outline type="rss" text="NVIDIA AI Blog" title="NVIDIA AI Blog" xmlUrl="https://blogs.nvidia.com/feed" />
+    <outline type="rss" text="the morning paper" title="the morning paper" xmlUrl="https://blog.acolyer.org/feed" />
+    <outline type="rss" text="Amazon Science Homepage" title="Amazon Science Homepage" xmlUrl="https://www.amazon.science/index.rss" />
+    <outline type="rss" text="Blog Andrej Karpathy" title="Blog Andrej Karpathy" xmlUrl="https://medium.com/feed/@karpathy" />
+    <outline type="rss" text="Blog Jay Alammar" title="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" />
+    <outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" />
+    <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" />
+    <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" />
+    <outline type="rss" text="JMLR recent papers" title="JMLR recent papers" xmlUrl="http://proceedings.mlr.press//feed.xml" />
+    <outline type="rss" text="Lil’Log" title="Lil’Log" xmlUrl="https://lilianweng.github.io/lil-log/feed.xml" />
+    <outline type="rss" text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed" />
+    <outline type="rss" text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" />
+    <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="http://research.microsoft.com/rss/news.xml" />
+    <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" />
+    <outline type="rss" text="Arthur Mensch(@arthurmensch)" title="Arthur Mensch(@arthurmensch)" xmlUrl="https://api.xgo.ing/rss/user/d8121d969fb34c7daad2dd2aac4ba270" />
+    <outline type="rss" text="Blog inFERENCe" title="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" />
+    <outline type="rss" text="Demis Hassabis(@demishassabis)" title="Demis Hassabis(@demishassabis)" xmlUrl="https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a" />
+    <outline type="rss" text="Jan Leike(@janleike)" title="Jan Leike(@janleike)" xmlUrl="https://api.xgo.ing/rss/user/dceb5cd131b34c72a8376cba8ea5d864" />
+    <outline type="rss" text="Jeff Dean(@JeffDean)" title="Jeff Dean(@JeffDean)" xmlUrl="https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054" />
+    <outline type="rss" text="Jim Fan(@DrJimFan)" title="Jim Fan(@DrJimFan)" xmlUrl="https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840" />
+    <outline type="rss" text="Mustafa Suleyman(@mustafasuleyman)" title="Mustafa Suleyman(@mustafasuleyman)" xmlUrl="https://api.xgo.ing/rss/user/394acfaff8c44e09936f5bc0b8504f2c" />
+    <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/technology/ai/rss" />
+    <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/news/rss.xml" />
+    <outline type="rss" text="AI at Meta(@AIatMeta)" title="AI at Meta(@AIatMeta)" xmlUrl="https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4" />
+    <outline type="rss" text="DeepSeek(@deepseek_ai)" title="DeepSeek(@deepseek_ai)" xmlUrl="https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86" />
+    <outline type="rss" text="Google AI(@GoogleAI)" title="Google AI(@GoogleAI)" xmlUrl="https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7" />
+    <outline type="rss" text="The singularity is nearer" title="The singularity is nearer" xmlUrl="https://geohot.github.io/blog/feed.xml" />
+    <outline type="rss" text="Towards Data Science - Medium" title="Towards Data Science - Medium" xmlUrl="https://towardsdatascience.com/feed" />
+    <outline type="rss" text="Dario Amodei(@DarioAmodei)" title="Dario Amodei(@DarioAmodei)" xmlUrl="https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5" />
+    <outline type="rss" text="Thomas Wolf(@Thom_Wolf)" title="Thomas Wolf(@Thom_Wolf)" xmlUrl="https://api.xgo.ing/rss/user/4918efb13c47459b8dcaa79cfdf72d09" />
+    <outline type="rss" text="xAI(@xai)" title="xAI(@xai)" xmlUrl="https://api.xgo.ing/rss/user/3953aa71e87a422eb9d7bf6ff1c7c43e" />
+    <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" />
+    <outline type="rss" text="Skywork(@Skywork_ai)" title="Skywork(@Skywork_ai)" xmlUrl="https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6" />
+    <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" />
+    <outline type="rss" text="Nicholas Carlini" title="Nicholas Carlini" xmlUrl="https://nicholas.carlini.com/writing/feed.xml" />
+    <outline type="rss" text="Qwen(@Alibaba_Qwen)" title="Qwen(@Alibaba_Qwen)" xmlUrl="https://api.xgo.ing/rss/user/80032d016d654eb4afe741ff34b7643d" />
+    <outline type="rss" text="Chain Of Thought" title="Chain Of Thought" xmlUrl="https://vrungta.substack.com/feed" />
+    <outline type="rss" text="Lil&apos;Log" title="Lil&apos;Log" xmlUrl="https://lilianweng.github.io/index.xml" />
+    <outline type="rss" text="AWS Machine Learning" title="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" />
+    <outline type="rss" text="Blog AI ML - Seita&apos;s Place" title="Blog AI ML - Seita&apos;s Place" xmlUrl="https://danieltakeshi.github.io/feed.xml" />
+    <outline type="rss" text="Blog AI Paper Review David Stutz" title="Blog AI Paper Review David Stutz" xmlUrl="http://davidstutz.de/feed" />
+    <outline type="rss" text="Eric Jang" title="Eric Jang" xmlUrl="http://blog.evjang.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="Eric Jang" title="Eric Jang" xmlUrl="https://evjang.com/feed" />
+    <outline type="rss" text="Magenta" title="Magenta" xmlUrl="http://magenta.tensorflow.org/feed.xml" />
+    <outline type="rss" text="MIT News - Artificial intelligence" title="MIT News - Artificial intelligence" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" />
+    <outline type="rss" text="MIT News - Machine learning" title="MIT News - Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" />
+    <outline type="rss" text="NVIDIA AI Blog" title="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" />
+    <outline type="rss" text="AK(@_akhaliq)" title="AK(@_akhaliq)" xmlUrl="https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e" />
+    <outline type="rss" text="Hunyuan(@TXhunyuan)" title="Hunyuan(@TXhunyuan)" xmlUrl="https://api.xgo.ing/rss/user/6e8e7b42cb434818810f87bcf77d86fb" />
+    <outline type="rss" text="Richard Socher(@RichardSocher)" title="Richard Socher(@RichardSocher)" xmlUrl="https://api.xgo.ing/rss/user/4d2d4165a7524217a08d3f57f27fa190" />
+    <outline type="rss" text="Blog literature review" title="Blog literature review" xmlUrl="https://vitalab.github.io/feed.xml" />
+    <outline type="rss" text="Gary Marcus(@GaryMarcus)" title="Gary Marcus(@GaryMarcus)" xmlUrl="https://api.xgo.ing/rss/user/35a38c5646d946fb894d8c30c1d9629e" />
+    <outline type="rss" text="Alex Albert(@alexalbert__)" title="Alex Albert(@alexalbert__)" xmlUrl="https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df" />
+    <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed" />
+    <outline type="rss" text="RL paper review" title="RL paper review" xmlUrl="https://dtransposed.github.io/feed.xml" />
+    <outline type="rss" text="RL Reddit" title="RL Reddit" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" />
+  </body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>📬 英文 Newsletter - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" xmlUrl="https://blog.bytebytego.com/feed" />
+    <outline type="rss" text="Android Weekly" title="Android Weekly" xmlUrl="https://androidweekly.net/rss.xml" />
+    <outline type="rss" text="dailydevlinks" title="dailydevlinks" xmlUrl="https://unicornclub.dev/feed" />
+    <outline type="rss" text="Golang Weekly" title="Golang Weekly" xmlUrl="https://golangweekly.com/rss" />
+    <outline type="rss" text="This Week in Rust" title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/atom.xml" />
+    <outline type="rss" text="tedium.co" title="tedium.co" xmlUrl="https://feed.tedium.co/" />
+    <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" />
+  </body>
+</opml>

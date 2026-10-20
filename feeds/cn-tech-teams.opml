@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🏢 中文大厂技术团队 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://tech.meituan.com/atom.xml" />
+    <outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://tech.meituan.com/feed" />
+    <outline type="rss" text="字节跳动技术团队" title="字节跳动技术团队" xmlUrl="https://wechat2rss.xlab.app/feed/4025ea55575daf8bfd8227e68b28d9638b073267.xml" />
+    <outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://wechat2rss.xlab.app/feed/eb4d04149424a874693a51c6fdda0dba8673f5e4.xml" />
+    <outline type="rss" text="小米技术" title="小米技术" xmlUrl="https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml" />
+    <outline type="rss" text="腾讯技术工程" title="腾讯技术工程" xmlUrl="https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml" />
+  </body>
+</opml>

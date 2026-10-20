@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🛠️ 中文开发者工具 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Hi, DIYgod" title="Hi, DIYgod" xmlUrl="https://diygod.cc/feed" />
+    <outline type="rss" text="编程-v2ex" title="编程-v2ex" xmlUrl="https://www.v2ex.com/feed/programming.xml" />
+    <outline type="rss" text="黑客派" title="黑客派" xmlUrl="https://hacpai.com/rss/domain/play.xml" />
+    <outline type="rss" text="黑客派" title="黑客派" xmlUrl="https://hacpai.com/rss/recent.xml" />
+    <outline type="rss" text="逐鹿IT-猛猛如玉" title="逐鹿IT-猛猛如玉" xmlUrl="https://amonxu.com/atom.xml" />
+    <outline type="rss" text="造壳 MkShell" title="造壳 MkShell" xmlUrl="https://www.mkshell.com/feed" />
+    <outline type="rss" text="重归混沌的BLOG" title="重归混沌的BLOG" xmlUrl="https://blog.gotocoding.com/feed" />
+    <outline type="rss" text="阅读-v2ex" title="阅读-v2ex" xmlUrl="https://www.v2ex.com/feed/reading.xml" />
+    <outline type="rss" text="阿尔的代码屋" title="阿尔的代码屋" xmlUrl="https://blog.algieba12.cn/atom.xml" />
+    <outline type="rss" text="高效率工具搜罗 - 知乎专栏" title="高效率工具搜罗 - 知乎专栏" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/gongju666" />
+    <outline type="rss" text="BBing&apos;s Blog" title="BBing&apos;s Blog" xmlUrl="https://www.bbing.com.cn/index.xml" />
+    <outline type="rss" text="Bin Wang - My Personal Blog" title="Bin Wang - My Personal Blog" xmlUrl="https://www.binwang.me/feed.xml" />
+    <outline type="rss" text="好工具周刊" title="好工具周刊" xmlUrl="https://bestxtools.github.io/atom.xml" />
+    <outline type="rss" text="manateelazycat.github.io" title="manateelazycat.github.io" xmlUrl="https://manateelazycat.github.io/feed.xml" />
+    <outline type="rss" text="类库大魔王的挖井日记" title="类库大魔王的挖井日记" xmlUrl="https://blog.ismisv.com/feed.xml" />
+    <outline type="rss" text="编码记录" title="编码记录" xmlUrl="https://liudon.com/index.xml" />
+    <outline type="rss" text="阁子" title="阁子" xmlUrl="https://dfine.tech/atom.xml" />
+    <outline type="rss" text="奔跑中的奶酪" title="奔跑中的奶酪" xmlUrl="https://www.runningcheese.com/feed" />
+    <outline type="rss" text="月光博客" title="月光博客" xmlUrl="https://www.williamlong.info/rss.xml" />
+    <outline type="rss" text="DebugUself with DAMA ;-)" title="DebugUself with DAMA ;-)" xmlUrl="https://du.101.camp/atom.xml" />
+    <outline type="rss" text="立方记忆体" title="立方记忆体" xmlUrl="https://jiyiti.xyz/feed" />
+    <outline type="rss" text="/ 是也乎(￣▽￣) / ZoomQuiet.io" title="/ 是也乎(￣▽￣) / ZoomQuiet.io" xmlUrl="https://blog.zoomquiet.io/feeds/all.atom.xml" />
+    <outline type="rss" text="M-x Chris-An-Emacser" title="M-x Chris-An-Emacser" xmlUrl="https://chriszheng.science/atom.xml" />
+    <outline type="rss" text="jdhao&apos;s blog" title="jdhao&apos;s blog" xmlUrl="https://jdhao.github.io/index.xml" />
+    <outline type="rss" text="zodream梦想开源/个人编程日记" title="zodream梦想开源/个人编程日记" xmlUrl="https://zodream.cn/blog/rss" />
+    <outline type="rss" text="博客园 - ssooking" title="博客园 - ssooking" xmlUrl="https://www.cnblogs.com/ssooking/rss" />
+    <outline type="rss" text="懒程序员改变世界" title="懒程序员改变世界" xmlUrl="http://qinghua.github.io/atom.xml" />
+    <outline type="rss" text="挨踢路" title="挨踢路" xmlUrl="https://itlu.net/feed" />
+    <outline type="rss" text="小众软件" title="小众软件" xmlUrl="http://feed.appinn.com/" />
+    <outline type="rss" text="Bigbyto" title="Bigbyto" xmlUrl="https://wiyi.org/feed.xml" />
+    <outline type="rss" text="Bingwhispers" title="Bingwhispers" xmlUrl="https://cyril3.github.io/feed.xml" />
+    <outline type="rss" text="GamerNoTitle" title="GamerNoTitle" xmlUrl="https://bili33.top/atom.xml" />
+    <outline type="rss" text="HaydenBi" title="HaydenBi" xmlUrl="https://haydenbi.com/feed.xml" />
+    <outline type="rss" text="音视频开发进阶" title="音视频开发进阶" xmlUrl="https://glumes.com/index.xml" />
+    <outline type="rss" text="I&apos;m TualatriX" title="I&apos;m TualatriX" xmlUrl="http://imtx.me/feed/latest" />
+    <outline type="rss" text="Bob&apos;s Coding Lab" title="Bob&apos;s Coding Lab" xmlUrl="https://pegionfish.github.io/feed.xml" />
+    <outline type="rss" text="longlin的个人小站" title="longlin的个人小站" xmlUrl="https://www.longlin.tech/index.xml" />
+    <outline type="rss" text="lzw-723&apos;s blog" title="lzw-723&apos;s blog" xmlUrl="https://blog.lzwi.fun/atom.xml" />
+    <outline type="rss" text="lzw-723&apos;s blog" title="lzw-723&apos;s blog" xmlUrl="https://lzw-723.github.io/atom.xml" />
+    <outline type="rss" text="Mag‘s Blog" title="Mag‘s Blog" xmlUrl="https://mag267.github.io/atom.xml" />
+    <outline type="rss" text="MakeItClear" title="MakeItClear" xmlUrl="https://mkitclear.github.io/atom.xml" />
+    <outline type="rss" text="Mark24Code" title="Mark24Code" xmlUrl="https://mark24code.github.io/feed.xml" />
+    <outline type="rss" text="Verne in GitHub" title="Verne in GitHub" xmlUrl="https://einverne.github.io/atom.xml" />
+    <outline type="rss" text="Vivaxy&apos;s blog" title="Vivaxy&apos;s blog" xmlUrl="https://vivaxyblog.github.io/atom.xml" />
+    <outline type="rss" text="vzard&apos;s blog" title="vzard&apos;s blog" xmlUrl="https://blog.vzard.cn/atom.xml" />
+    <outline type="rss" text="vzard&apos;s blog" title="vzard&apos;s blog" xmlUrl="https://vzardlloo.github.io/atom.xml" />
+    <outline type="rss" text="WeepingDogel&apos;s Blog" title="WeepingDogel&apos;s Blog" xmlUrl="https://blog.weepingdogel.vip/zh-cn/index.xml" />
+    <outline type="rss" text="WeepingDogel&apos;s Blog" title="WeepingDogel&apos;s Blog" xmlUrl="https://weepingdogel.github.io/index.xml" />
+    <outline type="rss" text="weirane&apos;s blog" title="weirane&apos;s blog" xmlUrl="https://blog.ruo-chen.wang/feed.xml" />
+    <outline type="rss" text="Beijing GNU/Linux User Group" title="Beijing GNU/Linux User Group" xmlUrl="https://beijinglug.club/feed" />
+    <outline type="rss" text="醉卧烟雨&apos;s Blog" title="醉卧烟雨&apos;s Blog" xmlUrl="http://blog.cctv.com.im/feed" />
+  </body>
+</opml>

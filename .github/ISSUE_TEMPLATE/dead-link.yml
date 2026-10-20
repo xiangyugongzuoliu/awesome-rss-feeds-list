@@ -1,0 +1,30 @@
+name: 报告死链
+description: 提交一个失效的 RSS 源
+title: "[死链] "
+labels: ["dead-link"]
+body:
+  - type: input
+    id: dead_url
+    attributes:
+      label: 死链 URL
+      description: 失效的 RSS feed URL
+    validations:
+      required: true
+  - type: dropdown
+    id: error_type
+    attributes:
+      label: 失效类型
+      options:
+        - "404 Not Found"
+        - "超时 / 无响应"
+        - "返回 5xx 错误"
+        - "返回非 RSS / Atom 内容"
+        - "域名失效 / 站点关闭"
+        - "内容已停更超过 6 个月"
+    validations:
+      required: true
+  - type: textarea
+    id: replacement
+    attributes:
+      label: 是否有替代源（可选）
+      description: 如果这个源迁移到了新地址，提供新地址我们替换而不是删除

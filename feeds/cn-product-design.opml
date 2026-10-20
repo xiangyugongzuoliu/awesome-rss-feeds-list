@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🎨 中文产品设计 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="人人都是产品经理" title="人人都是产品经理" xmlUrl="https://www.woshipm.com/feed" />
+    <outline type="rss" text="Design Scenes" title="Design Scenes" xmlUrl="https://fenx.work/rss" />
+    <outline type="rss" text="Luckydesigner" title="Luckydesigner" xmlUrl="https://www.luckydesigner.space/feed" />
+    <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" />
+    <outline type="rss" text="少数派" title="少数派" xmlUrl="http://sspai.me/feed" />
+    <outline type="rss" text="Cali Castle | 开发者、设计师、细节控、创始人" title="Cali Castle | 开发者、设计师、细节控、创始人" xmlUrl="https://cali.so/rss" />
+    <outline type="rss" text="The Type — 文字 / 设计 / 文化" title="The Type — 文字 / 设计 / 文化" xmlUrl="http://feeds.feedburner.com/TypeIsBeautiful" />
+    <outline type="rss" text="体验盒子" title="体验盒子" xmlUrl="https://www.uedbox.com/feed" />
+    <outline type="rss" text="江边的旱鸭子" title="江边的旱鸭子" xmlUrl="https://blog.joouis.com/atom.xml" />
+    <outline type="rss" text="江边的旱鸭子" title="江边的旱鸭子" xmlUrl="https://joouis.com/atom.xml" />
+  </body>
+</opml>

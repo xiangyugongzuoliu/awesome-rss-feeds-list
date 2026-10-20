@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>💰 中文财经 / 投资 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="日经中文网" title="日经中文网" xmlUrl="https://feedx.net/rss/nikkei.xml" />
+    <outline type="rss" text="华尔街日报" title="华尔街日报" xmlUrl="https://plink.anyfeeder.com/wsj/cn" />
+    <outline type="rss" text="雪球" title="雪球" xmlUrl="https://xueqiu.com/hots/topic/rss" />
+    <outline type="rss" text="国家统计局数据解读" title="国家统计局数据解读" xmlUrl="https://www.stats.gov.cn/sj/sjjd/rss.xml" />
+    <outline type="rss" text="国家统计局最新发布" title="国家统计局最新发布" xmlUrl="https://www.stats.gov.cn/sj/zxfb/rss.xml" />
+    <outline type="rss" text="Time经济观察 - Telegram Channel" title="Time经济观察 - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/TimeHorizonX" />
+    <outline type="rss" text="财新Morning Call" title="财新Morning Call" xmlUrl="https://anchor.fm/s/f4499a2c/podcast/rss" />
+    <outline type="rss" text="落园" title="落园" xmlUrl="https://www.loyhome.com/feed" />
+    <outline type="rss" text="猫笔刀" title="猫笔刀" xmlUrl="https://plink.anyfeeder.com/weixin/maobidao" />
+    <outline type="rss" text="Wei&apos;s Blog – All About Money" title="Wei&apos;s Blog – All About Money" xmlUrl="https://chattymoney.com/feed" />
+    <outline type="rss" text="水星投资理财" title="水星投资理财" xmlUrl="http://mercurychong.blogspot.com/feeds/posts/default" />
+  </body>
+</opml>

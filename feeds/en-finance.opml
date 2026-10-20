@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>💰 英文财经 / 投资 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ray Dalio(@RayDalio)" title="Ray Dalio(@RayDalio)" xmlUrl="https://api.xgo.ing/rss/user/4838204097ed422eac24ad48e68dc3ff" />
+    <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" />
+    <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" />
+    <outline type="rss" text="Economic Times" title="Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
+    <outline type="rss" text="Financial Post" title="Financial Post" xmlUrl="https://business.financialpost.com/feed" />
+    <outline type="rss" text="Fortune" title="Fortune" xmlUrl="https://fortune.com/feed" />
+    <outline type="rss" text="I Will Teach You To Be Rich" title="I Will Teach You To Be Rich" xmlUrl="https://www.iwillteachyoutoberich.com/feed" />
+    <outline type="rss" text="International: Top News And Analysis" title="International: Top News And Analysis" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" />
+    <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" />
+    <outline type="rss" text="Fabio Natalucci Post" title="Fabio Natalucci Post" xmlUrl="http://feeds.feedburner.com/FabioNatalucciPost" />
+    <outline type="rss" text="Afford Anything" title="Afford Anything" xmlUrl="https://affordanything.com/feed" />
+    <outline type="rss" text="Millennial Money" title="Millennial Money" xmlUrl="https://millennialmoney.com/feed" />
+    <outline type="rss" text="Money Saving Mom®" title="Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed" />
+    <outline type="rss" text="Money Under 30" title="Money Under 30" xmlUrl="https://www.moneyunder30.com/feed" />
+    <outline type="rss" text="MoneyNing" title="MoneyNing" xmlUrl="http://feeds.feedburner.com/MoneyNing" />
+    <outline type="rss" text="Nerd&apos;s Eye View | Kitces.com" title="Nerd&apos;s Eye View | Kitces.com" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&amp;x=1" />
+    <outline type="rss" text="NerdWallet" title="NerdWallet" xmlUrl="https://www.nerdwallet.com/blog/feed" />
+    <outline type="rss" text="Oblivious Investor" title="Oblivious Investor" xmlUrl="https://obliviousinvestor.com/feed" />
+    <outline type="rss" text="Personal Finance" title="Personal Finance" xmlUrl="https://reddit.com/r/personalfinance/.rss" />
+    <outline type="rss" text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" xmlUrl="https://www.savingadvice.com/feed" />
+    <outline type="rss" text="The College Investor" title="The College Investor" xmlUrl="https://thecollegeinvestor.com/feed" />
+    <outline type="rss" text="Well Kept Wallet" title="Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed" />
+    <outline type="rss" text="Wise Bread" title="Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" />
+    <outline type="rss" text="Business Line - Home" title="Business Line - Home" xmlUrl="https://www.thehindubusinessline.com/feeder/default.rss" />
+    <outline type="rss" text="Business News - Latest Headlines" title="Business News - Latest Headlines" xmlUrl="https://www.businessnews.com.au/rssfeed/latest.rss" />
+    <outline type="rss" text="SEBI RSS Feed" title="SEBI RSS Feed" xmlUrl="https://www.sebi.gov.in/sebirss.xml" />
+    <outline type="rss" text="HBR IdeaCast" title="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
+    <outline type="rss" text="Budgets Are Sexy" title="Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" />
+    <outline type="rss" text="Financial Samurai" title="Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed" />
+    <outline type="rss" text="Frugalwoods" title="Frugalwoods" xmlUrl="https://feeds.feedburner.com/Frugalwoods" />
+    <outline type="rss" text="Get Rich Slowly" title="Get Rich Slowly" xmlUrl="https://www.getrichslowly.org/feed" />
+    <outline type="rss" text="Learn To Trade The Market" title="Learn To Trade The Market" xmlUrl="https://www.learntotradethemarket.com/feed" />
+    <outline type="rss" text="Making Sense Of Cents" title="Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" />
+    <outline type="rss" text="BusinessWorld" title="BusinessWorld" xmlUrl="https://www.bworldonline.com/feed" />
+    <outline type="rss" text="Moneyweb" title="Moneyweb" xmlUrl="https://www.moneyweb.co.za/feed" />
+  </body>
+</opml>

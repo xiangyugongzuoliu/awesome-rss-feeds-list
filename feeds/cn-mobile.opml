@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>📱 中文移动开发 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="sunnyxx的技术博客" title="sunnyxx的技术博客" xmlUrl="http://blog.sunnyxx.com/atom.xml" />
+    <outline type="rss" text="OneV&apos;s Den" title="OneV&apos;s Den" xmlUrl="https://onevcat.com/feed.xml" />
+    <outline type="rss" text="Gityuan" title="Gityuan" xmlUrl="http://gityuan.com/feed.xml" />
+    <outline type="rss" text="Garan no dou" title="Garan no dou" xmlUrl="https://blog.ibireme.com/feed" />
+    <outline type="rss" text="戴铭的博客 - 星光社" title="戴铭的博客 - 星光社" xmlUrl="http://www.starming.com/atom.xml" />
+    <outline type="rss" text="OneV&apos;s Den" title="OneV&apos;s Den" xmlUrl="http://onevcat.com/atom.xml" />
+    <outline type="rss" text="唐巧的技术博客" title="唐巧的技术博客" xmlUrl="http://blog.devtang.com/atom.xml" />
+    <outline type="rss" text="扔物线" title="扔物线" xmlUrl="https://rengwuxian.com/rss" />
+    <outline type="rss" text="知乎专栏 - Android Tech &amp;&amp; Perf" title="知乎专栏 - Android Tech &amp;&amp; Perf" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/gracker" />
+    <outline type="rss" text="肘子的 Swift 记事本 ｜ Fatbobman&apos;s Blog" title="肘子的 Swift 记事本 ｜ Fatbobman&apos;s Blog" xmlUrl="https://fatbobman.com/zh/rss.xml" />
+    <outline type="rss" text="代码家" title="代码家" xmlUrl="https://daimajia.com/feed" />
+    <outline type="rss" text="技术小黑屋" title="技术小黑屋" xmlUrl="https://droidyue.com/atom.xml" />
+    <outline type="rss" text="maxOS" title="maxOS" xmlUrl="https://maxoxo.me/rss" />
+    <outline type="rss" text="高通新闻" title="高通新闻" xmlUrl="https://news.google.com/rss/search?ceid=CN%3Azh-Hans&amp;gl=CN&amp;hl=zh-CN&amp;oc=11&amp;q=%E9%AB%98%E9%80%9A+when%3A2d" />
+    <outline type="rss" text="残页的小博客" title="残页的小博客" xmlUrl="https://blog.canyie.top/atom.xml" />
+    <outline type="rss" text="Android Performance" title="Android Performance" xmlUrl="https://www.androidperformance.com/atom.xml" />
+    <outline type="rss" text="bang&apos;s blog" title="bang&apos;s blog" xmlUrl="https://blog.cnbang.net/feed" />
+    <outline type="rss" text="Blanboom" title="Blanboom" xmlUrl="https://blanboom.org/feed" />
+    <outline type="rss" text="Alien外星人 - Telegram Channel" title="Alien外星人 - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/SteamVents" />
+    <outline type="rss" text="ysl 的程式天堂 - Android 應用開發 ‧ 研究 ‧ 與諮詢" title="ysl 的程式天堂 - Android 應用開發 ‧ 研究 ‧ 與諮詢" xmlUrl="http://ysl-paradise.blogspot.com/feeds/posts/default" />
+    <outline type="rss" text="CSDN - 喻志强(Xeon) - Android" title="CSDN - 喻志强(Xeon) - Android" xmlUrl="https://rss.csdn.net/yuzhiqiang_1993/rss/map" />
+    <outline type="rss" text="Android 开发者" title="Android 开发者" xmlUrl="https://wechat2rss.xlab.app/feed/c2e44fa977abf95e4aabdd7059bbb8d1075a4720.xml" />
+    <outline type="rss" text="土土哥的技术Blog" title="土土哥的技术Blog" xmlUrl="https://tutuge.me/index.xml" />
+  </body>
+</opml>

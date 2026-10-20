@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🎨 英文产品设计 / UX - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss" />
+    <outline type="rss" text="JUST™ Creative" title="JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" />
+    <outline type="rss" text="LukeW | Digital Product Design + Strategy" title="LukeW | Digital Product Design + Strategy" xmlUrl="http://feeds.feedburner.com/FunctioningForm" />
+    <outline type="rss" text="Matthias Ott – User Experience Designer" title="Matthias Ott – User Experience Designer" xmlUrl="https://matthiasott.com/rss" />
+    <outline type="rss" text="Mozilla Open Design" title="Mozilla Open Design" xmlUrl="https://blog.mozilla.org/opendesign/feed" />
+    <outline type="rss" text="Paul Foster Design" title="Paul Foster Design" xmlUrl="https://www.paulfosterdesign.co.uk/feed.xml" />
+    <outline type="rss" text="Slack Design" title="Slack Design" xmlUrl="https://slack.design/feed" />
+    <outline type="rss" text="The Black Box of Product Management - Medium" title="The Black Box of Product Management - Medium" xmlUrl="https://medium.com/feed/the-black-box-of-product-management" />
+    <outline type="rss" text="User Experience" title="User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" />
+    <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" />
+    <outline type="rss" text="UX Daily - User Experience Daily" title="UX Daily - User Experience Daily" xmlUrl="https://interaction-design.org/rss/site_news.xml" />
+    <outline type="rss" text="UX Magazine" title="UX Magazine" xmlUrl="https://uxmag.com/feed" />
+    <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="http://feeds.feedburner.com/uxmovement" />
+    <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="https://uxmovement.com/feed" />
+    <outline type="rss" text="UX Planet" title="UX Planet" xmlUrl="https://uxplanet.org/feed" />
+    <outline type="rss" text="UXmatters" title="UXmatters" xmlUrl="https://uxmatters.com/index.xml" />
+    <outline type="rss" text="OddBird" title="OddBird" xmlUrl="http://oddbird.net/feed.atom" />
+    <outline type="rss" text="Robin Rendle" title="Robin Rendle" xmlUrl="http://robinrendle.com/feed.xml" />
+    <outline type="rss" text="Tobias Ahlin" title="Tobias Ahlin" xmlUrl="http://tobiasahlin.com/feed.xml" />
+    <outline type="rss" text="Baymard Institute" title="Baymard Institute" xmlUrl="http://feeds.baymard.com/baymard?_ga=1.110790726.2145183607.1414082693" />
+    <outline type="rss" text="The Moz Blog" title="The Moz Blog" xmlUrl="http://feedpress.me/mozblog" />
+    <outline type="rss" text="1stwebdesigner" title="1stwebdesigner" xmlUrl="https://1stwebdesigner.com/feed" />
+    <outline type="rss" text="A Daily Dose of Architecture Books" title="A Daily Dose of Architecture Books" xmlUrl="http://feeds.feedburner.com/archidose" />
+    <outline type="rss" text="ArchDaily" title="ArchDaily" xmlUrl="http://feeds.feedburner.com/Archdaily" />
+    <outline type="rss" text="Architecture" title="Architecture" xmlUrl="https://www.reddit.com/r/architecture/.rss" />
+    <outline type="rss" text="architecture – designboom | architecture &amp; design magazine" title="architecture – designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/architecture/feed" />
+    <outline type="rss" text="Boxes and Arrows" title="Boxes and Arrows" xmlUrl="http://boxesandarrows.com/rss" />
+    <outline type="rss" text="Car Body Design" title="Car Body Design" xmlUrl="https://www.carbodydesign.com/feed" />
+    <outline type="rss" text="Core77" title="Core77" xmlUrl="http://feeds.feedburner.com/core77/blog" />
+    <outline type="rss" text="Darin Senneff - UX Designer and Developer" title="Darin Senneff - UX Designer and Developer" xmlUrl="https://www.darins.page/articles/feed" />
+    <outline type="rss" text="Lireo Designs" title="Lireo Designs" xmlUrl="http://www.lireo.com/feed" />
+    <outline type="rss" text="Max Design articles" title="Max Design articles" xmlUrl="https://www.maxdesign.com.au/feed.xml" />
+    <outline type="rss" text="Firefox UX" title="Firefox UX" xmlUrl="https://blog.mozilla.org/ux/feed" />
+    <outline type="rss" text="Manu&apos;s Feed" title="Manu&apos;s Feed" xmlUrl="https://manuelmoreale.com/feed/rss" />
+    <outline type="rss" text="Notion(@NotionHQ)" title="Notion(@NotionHQ)" xmlUrl="https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede" />
+    <outline type="rss" text="Pimp my Type" title="Pimp my Type" xmlUrl="https://pimpmytype.com/feed" />
+    <outline type="rss" text="Binyuan Hui(@huybery)" title="Binyuan Hui(@huybery)" xmlUrl="https://api.xgo.ing/rss/user/f54b2b40185943ce8f48a880110b7bc2" />
+    <outline type="rss" text="Kev Quirk" title="Kev Quirk" xmlUrl="https://kevq.uk/feed" />
+    <outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="http://feeds.feedburner.com/yankodesign" />
+    <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed" />
+    <outline type="rss" text="Inside Intercom" title="Inside Intercom" xmlUrl="https://www.intercom.com/blog/feed" />
+    <outline type="rss" text="Design in government" title="Design in government" xmlUrl="https://designnotes.blog.gov.uk/feed" />
+    <outline type="rss" text="Scott Jenson" title="Scott Jenson" xmlUrl="https://jenson.org/feed" />
+    <outline type="rss" text="Figma(@figma)" title="Figma(@figma)" xmlUrl="https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2" />
+    <outline type="rss" text="Akshay Kothari(@akothari)" title="Akshay Kothari(@akothari)" xmlUrl="https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b" />
+    <outline type="rss" text="Wix UX" title="Wix UX" xmlUrl="https://wix-ux.com/feed" />
+    <outline type="rss" text="GoodUI Blog Feed" title="GoodUI Blog Feed" xmlUrl="http://goodui.org/blog/feed" />
+    <outline type="rss" text="Hey, designer!" title="Hey, designer!" xmlUrl="https://heydesigner.com/feed" />
+    <outline type="rss" text="Product Life" title="Product Life" xmlUrl="https://productlife.to/feed" />
+  </body>
+</opml>

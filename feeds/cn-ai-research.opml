@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>🧠 中文 AI 研究 / 实验室 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="范叶亮的博客 - Leo Van&apos;s Blog" title="范叶亮的博客 - Leo Van&apos;s Blog" xmlUrl="https://leovan.me/cn/index.xml" />
+    <outline type="rss" text="Posts on Changkun&apos;s Blog" title="Posts on Changkun&apos;s Blog" xmlUrl="https://changkun.de/blog/posts/index.xml" />
+    <outline type="rss" text="Yi&apos;s blog" title="Yi&apos;s blog" xmlUrl="https://wangyi.ai/atom.xml" />
+    <outline type="rss" text="Kaichao You" title="Kaichao You" xmlUrl="https://youkaichao.github.io/feed.xml" />
+    <outline type="rss" text="Martian Computing Research | 火星计算研究所" title="Martian Computing Research | 火星计算研究所" xmlUrl="https://stormraiser.me/feed" />
+  </body>
+</opml>

@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-05-08T02:53:22Z",
+  "scope": "public-derived-from-pro",
+  "active_count": 1987,
+  "category_count": 30,
+  "by_language": {
+    "zh": 786,
+    "en": 1201
+  },
+  "by_category": {
+    "cn-essays": 185,
+    "en-ai-research": 78,
+    "en-ai-tools": 81,
+    "en-finance": 35,
+    "cn-ai-tools": 13,
+    "cn-product-design": 10,
+    "cn-backend": 42,
+    "cn-lifestyle": 78,
+    "cn-dev-tools": 51,
+    "cn-web-frontend": 36,
+    "cn-ai-research": 5,
+    "en-essays": 59,
+    "cn-devops-data": 10,
+    "cn-finance": 11,
+    "cn-mobile": 23,
+    "cn-podcasts": 300,
+    "cn-newsletters": 7,
+    "cn-startups": 9,
+    "cn-tech-teams": 6,
+    "en-backend": 63,
+    "en-web-frontend": 298,
+    "en-dev-tools": 86,
+    "en-podcasts": 77,
+    "en-lifestyle": 185,
+    "en-startups": 58,
+    "en-devops-data": 20,
+    "en-mobile": 56,
+    "en-newsletters": 7,
+    "en-product-design": 49,
+    "en-tech-teams": 49
+  },
+  "filter_funnel": {
+    "total_pro": 5297,
+    "after_exclude": 5297,
+    "after_tier": 3751,
+    "after_public_safe": 3751,
+    "after_lang": 3751,
+    "after_min_conf": 3719,
+    "final": 1987
+  },
+  "rules_applied": {
+    "tier_threshold": [
+      "S",
+      "A",
+      "B"
+    ],
+    "public_safe_only": true,
+    "language_whitelist": [
+      "en",
+      "zh"
+    ],
+    "exclude_pro_categories": []
+  }
+}

@@ -1,0 +1,41 @@
+name: 提一个新源
+description: 推荐一个值得收录的 RSS 源
+title: "[新源] "
+labels: ["new-source"]
+body:
+  - type: input
+    id: rss_url
+    attributes:
+      label: RSS 源 URL
+      description: 必须是有效的 RSS / Atom feed URL（可以用阅读器先验证一下能正常订阅）
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: input
+    id: site_url
+    attributes:
+      label: 网站主页 URL
+      description: 该源所属的网站主页
+      placeholder: https://example.com
+  - type: dropdown
+    id: category
+    attributes:
+      label: 推荐分类
+      description: 从 7 大类中选一个最合适的
+      options:
+        - ai-and-ml（AI 与机器学习）
+        - tech-and-startups（科技与创业）
+        - chinese-blogs（中文独立博客）
+        - dev-and-opensource（开发与开源）
+        - design-and-product（设计与产品）
+        - news-and-finance（新闻与财经）
+        - rss-tools（RSS 工具与生态）
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 简短理由
+      description: 为什么值得收录？更新频率 / 内容质量 / 独特价值（≤200 字）
+    validations:
+      required: true

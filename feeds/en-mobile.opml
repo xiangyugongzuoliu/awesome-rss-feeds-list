@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>📱 英文移动开发 - awesome-rss-feeds</title>
+    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products-and-platforms/platforms/android/rss" />
+    <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" />
+    <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="https://feeds.feedburner.com/blogspot/hsDu" />
+    <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="https://jakewharton.com/atom.xml" />
+    <outline type="rss" text="News - Apple Developer" title="News - Apple Developer" xmlUrl="https://developer.apple.com/news/rss/news.rss" />
+    <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" />
+    <outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="https://inessential.com/xml/rss.xml" />
+    <outline type="rss" text="Podcast - Now in Android" title="Podcast - Now in Android" xmlUrl="https://feeds.libsyn.com/244409/rss" />
+    <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" />
+    <outline type="rss" text="Use Your Loaf - iOS Development News &amp; Tips" title="Use Your Loaf - iOS Development News &amp; Tips" xmlUrl="https://useyourloaf.com/blog/rss.xml" />
+    <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed" />
+    <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" />
+    <outline type="rss" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" xmlUrl="http://feeds.androidcentral.com/androidcentral" />
+    <outline type="rss" text="Android Community" title="Android Community" xmlUrl="https://androidcommunity.com/feed" />
+    <outline type="rss" text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="https://www.androidpolice.com/feed/" />
+    <outline type="rss" text="AndroidGuys" title="AndroidGuys" xmlUrl="https://www.androidguys.com/feed" />
+    <outline type="rss" text="Developing Android Apps" title="Developing Android Apps" xmlUrl="https://reddit.com/r/androiddev.rss" />
+    <outline type="rss" text="Mobile A11y" title="Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" />
+    <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" />
+    <outline type="rss" text="SwiftRocks" title="SwiftRocks" xmlUrl="https://swiftrocks.com/rss.xml" />
+    <outline type="rss" text="TalkAndroid" title="TalkAndroid" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" />
+    <outline type="rss" text="The Android Arsenal" title="The Android Arsenal" xmlUrl="https://feeds.feedburner.com/Android_Arsenal" />
+    <outline type="rss" text="Zac Sweers" title="Zac Sweers" xmlUrl="https://www.zacsweers.dev/rss" />
+    <outline type="rss" text="Zach Klippenstein’s Blog" title="Zach Klippenstein’s Blog" xmlUrl="https://blog.zachklipp.com/rss" />
+    <outline type="rss" text="Android Developers - Medium" title="Android Developers - Medium" xmlUrl="https://medium.com/feed/androiddevelopers" />
+    <outline type="rss" text="Benoit Pasquier - Swift, Data and more" title="Benoit Pasquier - Swift, Data and more" xmlUrl="https://benoitpasquier.com/index.xml" />
+    <outline type="rss" text="Flutter - Medium" title="Flutter - Medium" xmlUrl="https://medium.com/feed/flutter" />
+    <outline type="rss" text="Opera Mobile" title="Opera Mobile" xmlUrl="http://www.opera.com/blogs/mobile/feed" />
+    <outline type="rss" text="Podcast -  Android Developers Backstage" title="Podcast -  Android Developers Backstage" xmlUrl="https://feeds.libsyn.com/332855/rss" />
+    <outline type="rss" text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" xmlUrl="https://proandroiddev.com/feed" />
+    <outline type="rss" text="Romain Guy" title="Romain Guy" xmlUrl="https://www.romainguy.dev/posts/index.xml" />
+    <outline type="rss" text="The Atomic Birdhouse" title="The Atomic Birdhouse" xmlUrl="https://atomicbird.com/index.xml" />
+    <outline type="rss" text="Zarah Dominguez" title="Zarah Dominguez" xmlUrl="https://zarah.dev/feed.xml" />
+    <outline type="rss" text=" Apple Nuts - Telegram Channel" title=" Apple Nuts - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/AppleNuts" />
+    <outline type="rss" text="Felix Krause" title="Felix Krause" xmlUrl="https://krausefx.com/feed.xml" />
+    <outline type="rss" text="Ionic Blog" title="Ionic Blog" xmlUrl="https://blog.ionicframework.com/feed" />
+    <outline type="rss" text="Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog" title="Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/kotlin/feed" />
+    <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" />
+    <outline type="rss" text="Danny Tuppeny" title="Danny Tuppeny" xmlUrl="http://feeds.dantup.com/DanTup" />
+    <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news" />
+    <outline type="rss" text="Cult of Android" title="Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" />
+    <outline type="rss" text="Talking Kotlin" title="Talking Kotlin" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss" />
+    <outline type="rss" text="The Desolation of Blog" title="The Desolation of Blog" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" />
+    <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed" />
+    <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" />
+    <outline type="rss" text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" />
+    <outline type="rss" text="Joe Birch" title="Joe Birch" xmlUrl="https://joebirch.co/feed" />
+    <outline type="rss" text="mobiForge" title="mobiForge" xmlUrl="https://mobiforge.com/feed" />
+    <outline type="rss" text="Android" title="Android" xmlUrl="https://www.reddit.com/r/android/.rss" />
+    <outline type="rss" text="Android in MindOrks on Medium" title="Android in MindOrks on Medium" xmlUrl="https://medium.com/feed/mindorks/tagged/android" />
+    <outline type="rss" text="Android in The Airbnb Tech Blog on Medium" title="Android in The Airbnb Tech Blog on Medium" xmlUrl="https://medium.com/feed/airbnb-engineering/tagged/android" />
+    <outline type="rss" text="Cyanogen Mods" title="Cyanogen Mods" xmlUrl="https://www.cyanogenmods.org/feed" />
+    <outline type="rss" text="Droid Life" title="Droid Life" xmlUrl="https://www.droid-life.com/feed" />
+    <outline type="rss" text="goobar" title="goobar" xmlUrl="https://goobar.io/feed" />
+    <outline type="rss" text="Handstand Sam" title="Handstand Sam" xmlUrl="https://handstandsam.com/feed" />
+    <outline type="rss" text="Saket Narayan" title="Saket Narayan" xmlUrl="https://saket.me/feed" />
+  </body>
+</opml>
